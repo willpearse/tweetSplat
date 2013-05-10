@@ -1,0 +1,4 @@
+lat^long^ID^user^timecode^text^image
+54.37801394^-2.82507969^332203153703444480^austrums^2013-05-08 13:39:38 -0500^@ProjectSplatter pheasant, broom lane, red scar, underbarrow, Cumbria  #splatterspotter^NONE
+53.0471517^-2.762416^332013788805095424^CrowmanSam^2013-05-08 01:07:10 -0500^@ProjectSplatter 2bagers 1blackbird on the B5426
+-99999.999^-99999.999^331810598960627712^pace_e_bene^2013-05-07 11:39:46 -0500^@ProjectSplatter 07/05/13 Another badger just outside RHS Rosemoor gardens south of Torrington :0( #splatterspotter
